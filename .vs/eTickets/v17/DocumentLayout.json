@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|c:\\users\\drago\\onedrive\\desktop\\etickets\\etickets\\data\\base\\ientitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:data\\base\\ientitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|c:\\users\\drago\\onedrive\\desktop\\etickets\\etickets\\data\\base\\entitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:data\\base\\entitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|c:\\users\\drago\\onedrive\\desktop\\etickets\\etickets\\data\\services\\iproducersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:data\\services\\iproducersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|c:\\users\\drago\\onedrive\\desktop\\etickets\\etickets\\data\\services\\producersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:data\\services\\producersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|c:\\users\\drago\\onedrive\\desktop\\etickets\\etickets\\views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\data\\services\\actorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:data\\services\\actorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\data\\services\\iactorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:data\\services\\iactorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|c:\\users\\drago\\onedrive\\desktop\\etickets\\etickets\\data\\base\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:data\\base\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\models\\actors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:models\\actors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\data\\enums\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:data\\enums\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|c:\\users\\drago\\onedrive\\desktop\\etickets\\etickets\\views\\shared\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:views\\shared\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|c:\\users\\drago\\onedrive\\desktop\\etickets\\etickets\\views\\actors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:views\\actors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|c:\\users\\drago\\onedrive\\desktop\\etickets\\etickets\\views\\actors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:views\\actors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\models\\actor_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:models\\actor_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|c:\\users\\drago\\onedrive\\desktop\\etickets\\etickets\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\migrations\\20240920185210_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:migrations\\20240920185210_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\views\\cinemas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:views\\cinemas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\controllers\\cinemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:controllers\\cinemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Migrations\\20240920185210_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8B2F89-EE27-4F72-8B2C-1DBF655A4B27}|eTickets.csproj|solutionrelative:Migrations\\20240920185210_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Base\\EntityBaseRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Base\\EntityBaseRepository.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Base\\EntityBaseRepository.cs",
+              "RelativeToolTip": "Data\\Base\\EntityBaseRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAwwAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:53:36.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActorsController.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Controllers\\ActorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActorsController.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Controllers\\ActorsController.cs",
+              "RelativeToolTip": "Controllers\\ActorsController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAtwGUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:12:40.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEntityBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Base\\IEntityBaseRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Base\\IEntityBaseRepository.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Base\\IEntityBaseRepository.cs",
+              "RelativeToolTip": "Data\\Base\\IEntityBaseRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIA7wAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:50:22.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProducersService.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Services\\IProducersService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\IProducersService.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Services\\IProducersService.cs",
+              "RelativeToolTip": "Data\\Services\\IProducersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vwUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:46.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Models\\Producer.cs",
+              "RelativeDocumentMoniker": "Models\\Producer.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Models\\Producer.cs",
+              "RelativeToolTip": "Models\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:13:32.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProducersService.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Services\\ProducersService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\ProducersService.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Services\\ProducersService.cs",
+              "RelativeToolTip": "Data\\Services\\ProducersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:44:44.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProducersController.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Controllers\\ProducersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProducersController.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Controllers\\ProducersController.cs",
+              "RelativeToolTip": "Controllers\\ProducersController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T09:58:44.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Producers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Producers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Producers\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T11:41:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Producers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Producers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Producers\\Index.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowDwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T11:26:59.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Actors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Actors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Create.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T13:20:19.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Actors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Actors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T10:07:35.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:13:47.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActorsService.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Services\\ActorsService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\ActorsService.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Services\\ActorsService.cs",
+              "RelativeToolTip": "Data\\Services\\ActorsService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:55:32.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IActorsService.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Services\\IActorsService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\IActorsService.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Services\\IActorsService.cs",
+              "RelativeToolTip": "Data\\Services\\IActorsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:47:03.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Base\\IEntityBase.cs",
+              "RelativeDocumentMoniker": "Data\\Base\\IEntityBase.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Base\\IEntityBase.cs",
+              "RelativeToolTip": "Data\\Base\\IEntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:49:28.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Actors.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Models\\Actors.cs",
+              "RelativeDocumentMoniker": "Models\\Actors.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Models\\Actors.cs",
+              "RelativeToolTip": "Models\\Actors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:12:31.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieCategory.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Enums\\MovieCategory.cs",
+              "RelativeDocumentMoniker": "Data\\Enums\\MovieCategory.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\Enums\\MovieCategory.cs",
+              "RelativeToolTip": "Data\\Enums\\MovieCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:10:03.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Shared\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Shared\\NotFound.cshtml",
+              "RelativeToolTip": "Views\\Shared\\NotFound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T13:42:50.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Actors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Actors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T12:30:40.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Actors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Actors\\Details.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T14:19:28.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T11:48:37.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Actors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Actors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T12:01:33.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Actor_Movie.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Models\\Actor_Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Actor_Movie.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Models\\Actor_Movie.cs",
+              "RelativeToolTip": "Models\\Actor_Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:11:50.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T10:27:35.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:03:42.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Models\\Cinema.cs",
+              "RelativeDocumentMoniker": "Models\\Cinema.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Models\\Cinema.cs",
+              "RelativeToolTip": "Models\\Cinema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:12:23.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:31:21.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:03:10.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240920185210_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Migrations\\20240920185210_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240920185210_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Migrations\\20240920185210_Initial.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240920185210_Initial.Designer.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAmwNYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:31:14.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwBsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:13:02.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T12:30:55.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Cinemas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cinemas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Views\\Cinemas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cinemas\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwEIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T11:40:10.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CinemasController.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Controllers\\CinemasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CinemasController.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Controllers\\CinemasController.cs",
+              "RelativeToolTip": "Controllers\\CinemasController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:01:12.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbInitializer.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Data\\AppDbInitializer.cs",
+              "RelativeToolTip": "Data\\AppDbInitializer.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAASwN4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:55:11.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:07:45.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240920185210_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Migrations\\20240920185210_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240920185210_Initial.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\Migrations\\20240920185210_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240920185210_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:52:10.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\eTickets\\eTickets\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T18:39:36.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
